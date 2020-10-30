@@ -1,5 +1,5 @@
 # Customer_Segmentation
-Using Machine Learning to segment customers in Python&aTableau
+Using Machine Learning to segment customers in Python&Tableau
 
 ## [Part 1 Visualisation:art:](https://github.com/vassylkorzh/Customer_Segmentation/tree/main/5.%20Insights)
 
